@@ -1,6 +1,6 @@
-function jogar() {
-    alert('Bom jogo!');
+function jogar(texto) {
+    alert(texto);
 }
-function configurações() {
-    alert('Aqui esta as configuraçõs')
+function configuracoes(texto) {
+    alert(texto)
 }
